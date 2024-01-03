@@ -8,5 +8,4 @@ Leadsbee is a agency website. It's fully responsive.
 5. Bootstrap
 6. MixItUp plugin
  
- ## live link : 
-https://mdnakibul.github.io/leadsbee-responsive/
+
