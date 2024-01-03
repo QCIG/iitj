@@ -1,2 +1,12 @@
-# iitj
- "Join our quantum computing community for innovation, workshops, and hands-on experiences. Empower yourself with specialized courses and propel the quantum revolution forward with experts and enthusiasts."
+# leadsbee-responsive
+Leadsbee is a agency website. It's fully responsive. 
+# Technology used : 
+1. HTML 5
+2. CSS 3
+3. Javascript (vanilla)
+4. Jquery
+5. Bootstrap
+6. MixItUp plugin
+ 
+ ## live link : 
+https://mdnakibul.github.io/leadsbee-responsive/
